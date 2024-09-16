@@ -1,6 +1,10 @@
-## Buenas  😄👋
+## Buenas, mi nombre es José Antonio Cuesta Reina  😄👋
+Soy radiofísico en formación y aquí iré subiendo los proyectos que vaya haciendo.
 
 
+Mi correo personal es:
+
+jacuesta97@gmail.com
 
 <!--
 **Jose3397/Jose3397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
