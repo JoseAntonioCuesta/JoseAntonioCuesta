@@ -1,5 +1,5 @@
 ## Buenas, mi nombre es José Antonio Cuesta Reina  😄👋
-Soy radiofísico en formación y aquí iré subiendo los proyectos que vaya haciendo.
+Soy Físico Médico en formación y aquí iré subiendo los proyectos que vaya haciendo.
 
 
 Mi correo personal es:
